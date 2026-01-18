@@ -1,0 +1,15 @@
+Help on package django_ip_geolocation:
+
+NNAAMMEE
+    django_ip_geolocation - Django ip gelocation module.
+
+PPAACCKKAAGGEE  CCOONNTTEENNTTSS
+    backends (package)
+    decorators
+    middleware
+    settings
+    utils
+
+FFIILLEE
+    /home/rutha/.local/lib/python3.10/site-packages/django_ip_geolocation/__init__.py
+
